@@ -12,6 +12,9 @@
         <module name="Nutri_App_user_Trial" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Nutri_App_user_Trial" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

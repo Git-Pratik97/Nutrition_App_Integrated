@@ -31,3 +31,5 @@ Vsrc/main/java/com/group_4_trial_1/Nutri_App_user_Trial/config/NutritionPlanConf
 Xsrc/main/java/com/group_4_trial_1/Nutri_App_user_Trial/service/NutritionPlanService.java,4\9\497e4c5427daac60a4d23360cac9bf65e77316e1
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+…
+Usrc/test/java/com/group_4_trial_1/Nutri_App_user_Trial/NutritionApplicationTests.java,a\3\a303a02370ac7c83d72d505ddccdd8f6fb70fda6
